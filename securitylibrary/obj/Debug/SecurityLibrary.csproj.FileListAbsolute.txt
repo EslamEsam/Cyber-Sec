@@ -22,3 +22,9 @@ C:\Users\eslam\Downloads\Compressed\8th term\cyber\SecurityPackage[Template]\Sec
 C:\Users\eslam\Downloads\Compressed\8th term\cyber\SecurityPackage[Template]\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 C:\Users\eslam\Downloads\Compressed\8th term\cyber\SecurityPackage[Template]\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 C:\Users\eslam\Downloads\Compressed\8th term\cyber\SecurityPackage[Template]\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
