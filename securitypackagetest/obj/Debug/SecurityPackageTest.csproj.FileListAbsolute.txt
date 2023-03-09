@@ -43,3 +43,12 @@ C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackag
 C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
 C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\Users\AMR\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\securitypackagetest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
