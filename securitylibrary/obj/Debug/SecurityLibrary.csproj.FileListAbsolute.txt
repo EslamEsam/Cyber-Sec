@@ -34,3 +34,9 @@ C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\Securi
 C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.pdb

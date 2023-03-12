@@ -52,3 +52,12 @@ C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\Se
 C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\securitypackagetest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
 C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\Users\Adham\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityPackageTest.pdb
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityLibrary.dll
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
+C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
