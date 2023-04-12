@@ -22,7 +22,6 @@ C:\Users\alaa adel\Source\Repos\Cyber-Sec\SecurityPackageTest\bin\Debug\Security
 C:\Users\alaa adel\Source\Repos\Cyber-Sec\SecurityPackageTest\bin\Debug\SecurityLibrary.pdb
 C:\Users\alaa adel\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.AssemblyReference.cache
 C:\Users\alaa adel\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CoreCompileInputs.cache
-C:\Users\alaa adel\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
 C:\Users\alaa adel\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\Users\alaa adel\Source\Repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
 C:\Users\eslam\Downloads\Compressed\8th term\cyber\SecurityPackage[Template]\SecurityPackageTest\bin\Debug\SecurityPackageTest.dll
@@ -61,3 +60,4 @@ C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\Se
 C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete
 C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.dll
 C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.pdb
+C:\Users\alaa adel\source\repos\Cyber-Sec\SecurityPackageTest\obj\Debug\SecurityPackageTest.csproj.CopyComplete

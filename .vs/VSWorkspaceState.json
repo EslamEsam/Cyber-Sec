@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\securitylibrary",
-    "\\securitylibrary\\MainAlgorithms"
+    ""
   ],
-  "SelectedNode": "\\securitylibrary\\MainAlgorithms\\PlayFair.cs",
+  "SelectedNode": "\\SecurityPackage.sln",
   "PreviewInSolutionExplorer": false
 }
