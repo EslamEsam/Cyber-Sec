@@ -48,7 +48,7 @@
     <Compile Include="MainAlgorithms\Columnar.cs" />
     <Compile Include="DES\DES.cs" />
     <Compile Include="DES\TripleDES.cs" />
-    <Compile Include="MainAlgorithms\ELGAMAL.cs" />
+    <Compile Include="ELGAMAL\ELGAMAL.cs" />
     <Compile Include="MainAlgorithms\HillCipher.cs" />
     <Compile Include="CryptographicTechnique.cs" />
     <Compile Include="MD5\MD5.cs" />
