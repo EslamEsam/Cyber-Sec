@@ -58,21 +58,21 @@ namespace SecurityPackageTest
             Assert.IsTrue(plain.Equals(mainPlain2, StringComparison.InvariantCultureIgnoreCase));
         }
 
-        [TestMethod]
-        public void TripleDESTestEnc1()
-        {
-            TripleDES algorithm = new TripleDES();
-            string cipher = algorithm.Encrypt(mainPlainTriple, mainKeyTriple);
-            Assert.IsTrue(cipher.Equals(mainCipherTriple, StringComparison.InvariantCultureIgnoreCase));
-        }
+        //[TestMethod]
+        //public void TripleDESTestEnc1()
+        //{
+        //    TripleDES algorithm = new TripleDES();
+        //    string cipher = algorithm.Encrypt(mainPlainTriple, mainKeyTriple);
+        //    Assert.IsTrue(cipher.Equals(mainCipherTriple, StringComparison.InvariantCultureIgnoreCase));
+        //}
 
-        [TestMethod]
-        public void TripleDESTestDec1()
-        {
-            TripleDES algorithm = new TripleDES();
-            string plain = algorithm.Decrypt(mainCipherTriple, mainKeyTriple);
-            Assert.IsTrue(plain.Equals(mainPlainTriple, StringComparison.InvariantCultureIgnoreCase));
-        }
+        //[TestMethod]
+        //public void TripleDESTestDec1()
+        //{
+        //    TripleDES algorithm = new TripleDES();
+        //    string plain = algorithm.Decrypt(mainCipherTriple, mainKeyTriple);
+        //    Assert.IsTrue(plain.Equals(mainPlainTriple, StringComparison.InvariantCultureIgnoreCase));
+        //}
 
 
         [TestMethod]

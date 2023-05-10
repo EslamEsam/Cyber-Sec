@@ -48,15 +48,7 @@ namespace SecurityLibrary.ElGamal
         public int Decrypt(int c1, int c2, int x, int q)
         {
             int kC = Power_Mod(c1, x, q);
-            int k_inverse = new ExtendedEuclid().GetMultiplicativeInverse(kC, q); ; 
-            //for(int i =1;i<= q; i++)
-            //{
-            //    if (((kC * i) % q) == 1)
-            //    {
-            //        k_inverse = i;
-            //        break;
-            //    }
-            //}
+            int k_inverse = new ExtendedEuclid().GetMultiplicativeInverse(kC, q); 
             int message = (c2 * k_inverse) % q;
 
             return message;
