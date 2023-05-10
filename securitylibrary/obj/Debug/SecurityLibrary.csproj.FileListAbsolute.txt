@@ -40,3 +40,9 @@ C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\Securi
 C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
 C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.dll
 C:\Users\eslam\Source\Repos\EslamEsam\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
+C:\Users\Alaa\Source\Repos\Cyber-Sec\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+C:\Users\Alaa\Source\Repos\Cyber-Sec\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+C:\Users\Alaa\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.AssemblyReference.cache
+C:\Users\Alaa\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Alaa\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+C:\Users\Alaa\Source\Repos\Cyber-Sec\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
